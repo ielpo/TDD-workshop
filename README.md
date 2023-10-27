@@ -1,12 +1,12 @@
-# TDD-workshop
+# Test Driven Development Workshop for SAGE
 Repository for the SAGE Test Driven Development workshop.
 
-# Setup
+## Setup
 Python and testing setup.
 
-# Theory
+## Theory
 
 
-# Assignments
+## Assignments
 
 
